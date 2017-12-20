@@ -11,3 +11,4 @@ References:
  - Davidson-Pilon, Bayesian Methods for Hackers https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
  - MacKay, Information Theory, Inference, and Learning Algorithms: http://www.inference.phy.cam.ac.uk/itila/
  - Kruschke, Doing Bayesian Data Analysis: https://sites.google.com/site/doingbayesiandataanalysis/
+ - http://www.users.csbsju.edu/~mgass/robert.pdf
