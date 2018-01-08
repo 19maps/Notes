@@ -13,6 +13,8 @@ How deploy python code:
  * http://dan.bravender.net/2012/5/11/git-based_fabric_deploys_are_awesome.html (fabric / git)
    * http://upstart.ubuntu.com/
  * ngrok
+
+Raid repair: http://georgebohnisch.com/replace-failing-drive-raid6-array-mdadm/
  
  
 -----
