@@ -12,7 +12,9 @@ How deploy python code:
  * https://hynek.me/articles/python-app-deployment-with-native-packages/ (Part II)
  * http://dan.bravender.net/2012/5/11/git-based_fabric_deploys_are_awesome.html (fabric / git)
    * http://upstart.ubuntu.com/
-
+ * ngrok
+ 
+ 
 -----
 ### Rpi
 Change to static ip (2017.08.18): https://www.raspberrypi.org/forums/viewtopic.php?t=191140
