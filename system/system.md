@@ -5,6 +5,7 @@ How deploy python code:
    * https://dh-virtualenv.readthedocs.io/en/latest/ (Python virtualenv as Debian .deb)
  * https://hynek.me/articles/python-deployment-anti-patterns/
    * https://pex.readthedocs.io/en/stable/whatispex.html (Pex - compiled virtualenvs)
+     * https://www.youtube.com/watch?v=NmpnGhRwsu0 
    * http://supervisord.org/
    * http://puppetlabs.com/
    * http://www.ansibleworks.com/
