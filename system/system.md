@@ -2,9 +2,15 @@
 
 How deploy python code:
  * https://www.nylas.com/blog/packaging-deploying-python/
+   * https://dh-virtualenv.readthedocs.io/en/latest/ (Python virtualenv as Debian .deb)
  * https://hynek.me/articles/python-deployment-anti-patterns/
+   * https://pex.readthedocs.io/en/stable/whatispex.html (Pex - compiled virtualenvs)
    * http://supervisord.org/
    * http://puppetlabs.com/
+   * http://www.ansibleworks.com/
+ * https://hynek.me/articles/python-app-deployment-with-native-packages/ (Part II)
+ * http://dan.bravender.net/2012/5/11/git-based_fabric_deploys_are_awesome.html (fabric / git)
+   * http://upstart.ubuntu.com/
 
 -----
 ### Rpi
