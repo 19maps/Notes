@@ -3,8 +3,8 @@
 How deploy python code:
  * https://www.nylas.com/blog/packaging-deploying-python/
  * https://hynek.me/articles/python-deployment-anti-patterns/
-  * http://supervisord.org/
-  * http://puppetlabs.com/
+   * http://supervisord.org/
+   * http://puppetlabs.com/
 
 -----
 ### Rpi
