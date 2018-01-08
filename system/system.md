@@ -6,7 +6,7 @@ How deploy python code:
   * http://supervisord.org/
   * http://puppetlabs.com/
 
-
+-----
 ### Rpi
 Change to static ip (2017.08.18): https://www.raspberrypi.org/forums/viewtopic.php?t=191140
 
