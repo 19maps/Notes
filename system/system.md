@@ -15,7 +15,8 @@ How deploy python code:
  * ngrok
 
 Raid repair: http://georgebohnisch.com/replace-failing-drive-raid6-array-mdadm/
- 
+
+xrandr: https://linuxforums.org.uk/index.php?topic=11175.0
  
 -----
 ### Rpi
