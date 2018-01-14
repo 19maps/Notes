@@ -21,6 +21,7 @@ xrandr: https://linuxforums.org.uk/index.php?topic=11175.0
 -----
 ### Rpi
 Change to static ip (2017.08.18): https://www.raspberrypi.org/forums/viewtopic.php?t=191140
+Set local: http://rohankapoor.com/2012/04/americanizing-the-raspberry-pi/
 
 Motion:
  * http://www.techradar.com/how-to/computing/how-to-build-a-raspberry-pi-security-camera-1321441
